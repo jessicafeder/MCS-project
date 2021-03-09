@@ -11,7 +11,7 @@ For this project we wanted to simulate a motorcycle crash that sends a chosen IC
 Next step will be to simulate this with hardware.
 
 Group consisting of: <br>
-Jesper Lundborg
-Johan Wassberg
-Andreas Berg
-Jessica Feder
+Jesper Lundborg <br>
+Johan Wassberg <br>
+Andreas Berg <br>
+Jessica Feder <br>
