@@ -10,7 +10,7 @@ Node-red for crash simulation <br>
 For this project we wanted to simulate a motorcycle crash that sends a chosen ICE contact a message with the drivers location.
 Next step will be to simulate this with hardware.
 
-Group consisting of:
+Group consisting of: <br>
 Jesper Lundborg
 Johan Wassberg
 Andreas Berg
