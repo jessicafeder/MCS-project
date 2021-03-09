@@ -1,6 +1,6 @@
 # Cloud-Project
  
-Motorcycle crash sensor
+<h2>Motorcycle crash sensor</h2>
 
 AWS for cloud services: IoT Core, Database <br>
 Cumulocity for location <br>
